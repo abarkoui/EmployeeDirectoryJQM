@@ -1,4 +1,4 @@
-var serviceURL = "http://localhost/directory/services/";
+var serviceURL = "http://192.168.43.32/ppp/services/";
 
 var employees;
 
